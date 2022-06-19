@@ -27,7 +27,7 @@ sidebar:
 		</a>
 	</li>
 	<li>
-		<a href='ttps://twitter.com/cmmonaco3' target='_blank'>
+		<a href='ttps://twitter.com/cmmonaco' target='_blank'>
 			<i class='fab fa-fw fa-twitter-square' aria-hidden='true' style='color: #55acee;'></i>
 			<span class='label'>Twitter</span>
 		</a>
@@ -35,8 +35,9 @@ sidebar:
 </ul>"
 ---
 
-Welcome to my website! H
+Welcome to my website! My name is Chris and I'm a Ph.D. student in the Molecular and Systems Pharmocology program at Emory University in Atlanta, Ga. Prior to starting my Ph.D., I worked to develop new molecular assays and custom laboratory equipment at the US CDC; combining my scientific and engineering accumen to expand the cabilities of CDC scientists accross the agency. I have also spent several years in K-12 education where I introduced new insights and technologies into classrooms in order to enhance the success of 21st-century learners. I have a BS in Electrical Engineering and a MS in Bioinformatics, both from Georgia Tech, with research experience that ranges from inorganic materials synthesis to high-throughput genomic data analysis.
 
-### My Experience
+When not in the lab, I can be found growing gourment mushrooms, gardening, or spending time with my partner and tiny dog.
 
-As a scientist, I bring curiosity, engineering principles, and maker resourcefulness to solving problems in new ways. My research experience encompasses inorganic materials synthesis to high-throughput genomic data analysis. I currently work to develop new molecular assays, analytical methods, and specialized laboratory equipment to expand the capabilities of CDC scientists. In addition, I have spent several years in K-12 education where I introduced new insights and technologies into classrooms in order to enhance the success of 21st-century learners.
+## Publications
+{% include current_publications.html %}
