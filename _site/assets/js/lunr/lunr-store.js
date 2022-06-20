@@ -1,4 +1,10 @@
 var store = [{
+        "title": "COVID-19 LAMP Test",
+        "excerpt":"In response to the dire need for accessible diagnostic testing early in the COVID-19, I worked with a group of independent researchers to develop an open-source diagnostic test based on Loop-mediated Isothermal Amplification (LAMP). Our test relies on saliva as a sample collect via a commercially collection kit from DNAGenotek....","categories": [],
+        "tags": [],
+        "url": "/portfolio/covid_test_2021/",
+        "teaser": "/assets/project-assets/covid_test-2021/covid_test_thumb.jpg"
+      },{
         "title": "Entryway Display Case",
         "excerpt":"This display case, located in Drew Charter School’s, Elementary Academy, was built as a modern replacement to an old, ugly platflorm. The goal was to provide a display area for the derby car while keeping with the industrial aesthetic in the rest of the entryway. The case is contructed of...","categories": [],
         "tags": [],
@@ -30,7 +36,7 @@ var store = [{
         "teaser": null
       },{
         "title": "My Test Post",
-        "excerpt":"This is a blog Post  Hi this a test post. I’m desperately trying to get things working :(   ","categories": ["jekyll","update"],
+        "excerpt":"This is a blog Post  Hi this a test post. I’m desperately trying to get things working :(     ","categories": ["jekyll","update"],
         "tags": [],
         "url": "/jekyll/update/2021/12/08/My-Test-Post.html",
         "teaser": null

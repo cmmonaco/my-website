@@ -6,7 +6,7 @@ Images are to be kept below 1MB file size.
 
 The banner or hero image on each page should be 1920x800px
 
-## Teaser Image
+## Teaser/Thumb Image
 
 The teaser image should be 800x600px
 

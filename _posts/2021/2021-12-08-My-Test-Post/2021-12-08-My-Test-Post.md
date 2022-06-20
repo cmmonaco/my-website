@@ -8,3 +8,4 @@ categories: jekyll update
 # This is a blog Post
 Hi this a test post. I'm desperately trying to get things working :(
 
+{% raw %}![it's a me]({{ site.url }}/assets/blog_assets/me.JPG){% endraw %}
