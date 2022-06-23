@@ -37,7 +37,7 @@ sidebar:
 
 Welcome to my website! My name is Chris and I'm a Ph.D. student in the Molecular and Systems Pharmocology program at Emory University in Atlanta, Ga. Prior to starting my Ph.D., I worked to develop new molecular assays and custom laboratory equipment at the US CDC; combining my scientific and engineering accumen to expand the cabilities of CDC scientists accross the agency. I have also spent several years in K-12 education where I introduced new insights and technologies into classrooms in order to enhance the success of 21st-century learners. I have a BS in Electrical Engineering and a MS in Bioinformatics, both from Georgia Tech, with research experience that ranges from inorganic materials synthesis to high-throughput genomic data analysis.
 
-When not in the lab, I can be found growing gourment mushrooms, gardening, or spending time with my partner and tiny dog.
+When not in the lab, I can be found growing gourmet mushrooms, gardening, or spending time with my partner and tiny dog.
 
 ## Publications
 {% include current_publications.html %}

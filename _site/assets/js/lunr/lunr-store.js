@@ -1,4 +1,10 @@
 var store = [{
+        "title": "Connect STEAM",
+        "excerpt":"At Drew Charter School, we had an idea that all parts of the school should be inspirational. This includes the hallways, where we envisioned a children’s museum-like atmosphere with interactive elements. One such element is this custom build “Connect STEAM” game- an over-sized take on the popular Connect-4 game. Made...","categories": [],
+        "tags": [],
+        "url": "/portfolio/connect_steam_2018/",
+        "teaser": "/assets/project-assets/connect_steam-2018/connect_steam_tease.jpg"
+      },{
         "title": "COVID-19 LAMP Test",
         "excerpt":"In response to the dire need for accessible diagnostic testing early in the COVID-19, I worked with a group of independent researchers to develop an open-source diagnostic test based on Loop-mediated Isothermal Amplification (LAMP). Our test relies on saliva as a sample collect via a commercially collection kit from DNAGenotek....","categories": [],
         "tags": [],
@@ -29,15 +35,9 @@ var store = [{
         "url": "/portfolio/mag_rack_2021/",
         "teaser": "/assets/project-assets/mag_rack-2021/mag_rack_tease.jpg"
       },{
-        "title": "Welcome to Jekyll!",
-        "excerpt":"You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when...","categories": ["jekyll","update"],
+        "title": "Coming Soon",
+        "excerpt":"Coming Soon  Stay tuned for new blog posts coming soon!  ","categories": ["Misc"],
         "tags": [],
-        "url": "/jekyll/update/2021/12/07/welcome-to-jekyll.html",
-        "teaser": null
-      },{
-        "title": "My Test Post",
-        "excerpt":"This is a blog Post  Hi this a test post. I’m desperately trying to get things working :(     ","categories": ["jekyll","update"],
-        "tags": [],
-        "url": "/jekyll/update/2021/12/08/My-Test-Post.html",
+        "url": "/misc/2021/12/08/Coming-Soon.html",
         "teaser": null
       }]
