@@ -26,7 +26,7 @@ gallery:
     image_path: /assets/project-assets/glowforge_cart-2019/glowforge_cart_3.jpg
     alt: "Close-up of glowforge on cart"
 ---
-At [Drew Charter School](https://drewcharterschool.org){:target='_blank'}, we encouraged all teachers to utilize the digital fabrication tools in our makerspace. To make some tools more accessible, we tried to make them mobile and so laser cutter carts were born. This cart is specifically designed to house a Glowforge laser cutter along with room to store an exhaust filter, an all-important fire extinguisher, and stock for cutting. It is made from 3/4" baltic birch plywood cut on a CNC router with a slot-together design for easy assembly. Becuase this was intended to travel around a high school, the entire closes up with and locks to prevent curious students from accessing it when they shouldn't.
+At [Drew Charter School](https://drewcharterschool.org){:target='_blank'}, we encouraged all teachers to utilize the digital fabrication tools in our makerspace. To make some tools more accessible, we tried to make them mobile and so laser cutter carts were born. This cart is specifically designed to house a Glowforge laser cutter along with room to store an exhaust filter, the all-important fire extinguisher, and stock for cutting. It is made from 3/4" baltic birch plywood and cut on a CNC router with a slot-together design for easy assembly. Becuase this was intended to travel around a high school, the entire unit can be closed and locked to prevent curious students from accessing it when they shouldn't.
 
 {% include gallery %}
 

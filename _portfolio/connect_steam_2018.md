@@ -22,6 +22,6 @@ gallery:
     image_path: /assets/project-assets/connect_steam-2018/connect_steam_3.jpg
     alt: "rack in use"
 ---
-At Drew Charter School, we had an idea that all parts of the school should be inspirational. This includes the hallways, where we envisioned a children's museum-like atmosphere with interactive elements. One such element is this custom build "Connect STEAM" game- an over-sized take on the popular Connect-4 game. Made from CNC-cut plywood panels and tokens, the game measurses about 5 feet tall and 8 feet wide. Rather than just two different color tokens, this game features five different color tokens corresponding to each letter in S-T-E-A-M. Players are incouraged to either spell out STEAM, match colors, or make up their own rules.
+At Drew Charter School, we had the idea that all parts of the school should be inspirational to our students. This includes the hallways, where we envisioned a children's museum-like atmosphere with interactive elements. One such element is this custom built "Connect STEAM"; an over-sized take on the popular Connect-4 game. Made from CNC-cut plywood panels, the game measurses about 5 feet tall and 8 feet wide. Rather than just two different color tokens, this game features five different color tokens corresponding to each letter in S-T-E-A-M. Players are encouraged to either spell out STEAM, match colors, or make up their own rules.
 
 {% include gallery caption="" %}

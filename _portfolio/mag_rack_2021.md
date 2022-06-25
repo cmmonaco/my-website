@@ -25,10 +25,10 @@ gallery:
     image_path: /assets/project-assets/mag_rack-2021/mag_rack_1.jpg
     alt: "rack in use"
 ---
-Magnetic tube racks from commercial lab suppliers can costs hundreds of dollars. But if you have a 3D printer you can make your very own for a fraction of that price! These racks are designed to support two sides of six 1.5-2.0 mL microcentrifuge tubes. They use long, rectangular magnets set lower on the tubes than most commercially available racks allowing for good separation even with very low volume samples. In addition, these racks are designed to slot together to allow for expansion when more than 12 samples need to be processed.
+Magnetic tube racks from commercial lab suppliers can costs hundreds of dollars. But if you have a 3D printer you can make your very own for a fraction of that price! These racks are designed to support up to twelve 1.5-2.0 mL microcentrifuge tubes. They use long, rectangular magnets set lower on the tubes than most commercially available racks, allowing for good separation even with very low sample volumes. In addition, these racks are designed to slot together to allow for expansion when more than 12 samples need to be processed.
 
 {% include gallery caption="" %}
 
-Two designs are available. The _Two Part_ design features a removable top so that samples can be vortexed all at the same time without removing each tube from the rack. The _One Part_ design is a single piece. These racks are designed to accept a 5/8" x 1/4" x 0.1" neodymium magnet. I use ones available from [McMaster-Carr](https://www.mcmaster.com/5848K78/).
+Two designs are available. The _Two Part_ design features a removable top so that samples can be vortexed all at the same time without having to removing each tube from the rack. The _One Part_ design is a single piece. These racks are designed to accept a 5/8" x 1/4" x 0.1" neodymium magnet. I used ones available from [McMaster-Carr](https://www.mcmaster.com/5848K78/).
 
 Links to download STL files as well as to the OnShape cad document are under the resources section.

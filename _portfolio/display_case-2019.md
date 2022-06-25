@@ -35,7 +35,7 @@ gallery:
     image_path: /assets/project-assets/entry_case-2019/entry_case_6.jpg
     alt: "Close-up of glowforge on cart"
 ---
-This display case, located in [Drew Charter School's](https://drewcharterschool.org){:target='_blank'}, Elementary Academy, was built as a modern replacement to an old, ugly platflorm. The goal was to provide a display area for the derby car while keeping with the industrial aesthetic in the rest of the entryway. The case is contructed of 3/4" baltic birch plywood and features a curve, back-lit perforated pattern on either side.
+This display case, located in [Drew Charter School's](https://drewcharterschool.org){:target='_blank'}, Elementary Academy, was built as a modern replacement to an old, ugly platflorm. The goal was to provide a display area for the derby car while keeping with the industrial aesthetic in the rest of the entryway. The case is contructed of 3/4" baltic birch plywood and features a curved, back-lit perforated pattern on either side.
 
 {% include gallery %}
 
